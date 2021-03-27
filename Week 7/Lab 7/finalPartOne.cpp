@@ -11,8 +11,8 @@ using namespace std;
 Environment* env = nullptr;
 Connection* conn = nullptr;
 /* Used Variables */
-string user = "dbs211_203c34";
-string pass = "47799989";
+string user = "dbs311_211b28";
+string pass = "31185170";
 string constr = "myoracle12c.senecacollege.ca:1521/oracle12c";
 
 void displayHeaderOne()
